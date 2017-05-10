@@ -1,0 +1,15 @@
+{
+  "name": "v-flowstate",
+  "version": "1.0.0",
+  "description": "Water flow project; Granite School District campus irrigation tracking system.",
+  "main": "index.js",
+  "scripts": {
+    "test": "v-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "/Users/joshholladay/pro/freelance/v-flowstate/.git/"
+  },
+  "author": "Josh Holladay",
+  "license": "ISC"
+}
