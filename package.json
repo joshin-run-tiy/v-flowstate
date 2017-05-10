@@ -6,10 +6,7 @@
   "scripts": {
     "test": "v-test"
   },
-  "repository": {
-    "type": "git",
-    "url": "/Users/joshholladay/pro/freelance/v-flowstate/.git/"
-  },
+  "repository": "/Users/joshholladay/pro/freelance/v-flowstate/.git/",
   "author": "Josh Holladay",
   "license": "ISC"
 }
